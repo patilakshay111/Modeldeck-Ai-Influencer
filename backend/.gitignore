@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Secrets — never commit a filled-in .env
+.env
+.env.local
+
+# Runtime state: generated media and account data
+storage/
+
+# Editor and OS noise
+.DS_Store
+*.log
