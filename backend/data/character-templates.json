@@ -1,0 +1,595 @@
+{
+    "version":  1,
+    "source":  "ModelDeck local assets",
+    "count":  98,
+    "templates":  [
+                      {
+                          "id":  "tpl_001",
+                          "label":  "Ava",
+                          "handle":  "ava",
+                          "src":  "/assets/influencers/ava.svg"
+                      },
+                      {
+                          "id":  "tpl_002",
+                          "label":  "Mia",
+                          "handle":  "mia",
+                          "src":  "/assets/influencers/mia.svg"
+                      },
+                      {
+                          "id":  "tpl_003",
+                          "label":  "Sophia",
+                          "handle":  "sophia",
+                          "src":  "/assets/influencers/sophia.svg"
+                      },
+                      {
+                          "id":  "tpl_004",
+                          "label":  "Isla",
+                          "handle":  "isla",
+                          "src":  "/assets/influencers/isla.svg"
+                      },
+                      {
+                          "id":  "tpl_005",
+                          "label":  "Luna",
+                          "handle":  "luna",
+                          "src":  "/assets/influencers/luna.svg"
+                      },
+                      {
+                          "id":  "tpl_006",
+                          "label":  "Chloe",
+                          "handle":  "chloe",
+                          "src":  "/assets/influencers/chloe.svg"
+                      },
+                      {
+                          "id":  "tpl_007",
+                          "label":  "Nora",
+                          "handle":  "nora",
+                          "src":  "/assets/influencers/nora.svg"
+                      },
+                      {
+                          "id":  "tpl_008",
+                          "label":  "Elena",
+                          "handle":  "elena",
+                          "src":  "/assets/influencers/elena.svg"
+                      },
+                      {
+                          "id":  "tpl_009",
+                          "label":  "Zoe",
+                          "handle":  "zoe",
+                          "src":  "/assets/influencers/zoe.svg"
+                      },
+                      {
+                          "id":  "tpl_010",
+                          "label":  "Aria",
+                          "handle":  "aria",
+                          "src":  "/assets/influencers/aria.svg"
+                      },
+                      {
+                          "id":  "tpl_011",
+                          "label":  "Layla",
+                          "handle":  "layla",
+                          "src":  "/assets/influencers/layla.svg"
+                      },
+                      {
+                          "id":  "tpl_012",
+                          "label":  "Maya",
+                          "handle":  "maya",
+                          "src":  "/assets/influencers/maya.svg"
+                      },
+                      {
+                          "id":  "tpl_013",
+                          "label":  "Ivy",
+                          "handle":  "ivy",
+                          "src":  "/assets/influencers/ivy.svg"
+                      },
+                      {
+                          "id":  "tpl_014",
+                          "label":  "Ruby",
+                          "handle":  "ruby",
+                          "src":  "/assets/influencers/ruby.svg"
+                      },
+                      {
+                          "id":  "tpl_015",
+                          "label":  "Hazel",
+                          "handle":  "hazel",
+                          "src":  "/assets/influencers/hazel.svg"
+                      },
+                      {
+                          "id":  "tpl_016",
+                          "label":  "Lily",
+                          "handle":  "lily",
+                          "src":  "/assets/influencers/lily.svg"
+                      },
+                      {
+                          "id":  "tpl_017",
+                          "label":  "Emma",
+                          "handle":  "emma",
+                          "src":  "/assets/influencers/emma.svg"
+                      },
+                      {
+                          "id":  "tpl_018",
+                          "label":  "Olivia",
+                          "handle":  "olivia",
+                          "src":  "/assets/influencers/olivia.svg"
+                      },
+                      {
+                          "id":  "tpl_019",
+                          "label":  "Amelia",
+                          "handle":  "amelia",
+                          "src":  "/assets/influencers/amelia.svg"
+                      },
+                      {
+                          "id":  "tpl_020",
+                          "label":  "Harper",
+                          "handle":  "harper",
+                          "src":  "/assets/influencers/harper.svg"
+                      },
+                      {
+                          "id":  "tpl_021",
+                          "label":  "Evelyn",
+                          "handle":  "evelyn",
+                          "src":  "/assets/influencers/evelyn.svg"
+                      },
+                      {
+                          "id":  "tpl_022",
+                          "label":  "Abigail",
+                          "handle":  "abigail",
+                          "src":  "/assets/influencers/abigail.svg"
+                      },
+                      {
+                          "id":  "tpl_023",
+                          "label":  "Emily",
+                          "handle":  "emily",
+                          "src":  "/assets/influencers/emily.svg"
+                      },
+                      {
+                          "id":  "tpl_024",
+                          "label":  "Ella",
+                          "handle":  "ella",
+                          "src":  "/assets/influencers/ella.svg"
+                      },
+                      {
+                          "id":  "tpl_025",
+                          "label":  "Scarlett",
+                          "handle":  "scarlett",
+                          "src":  "/assets/influencers/scarlett.svg"
+                      },
+                      {
+                          "id":  "tpl_026",
+                          "label":  "Grace",
+                          "handle":  "grace",
+                          "src":  "/assets/influencers/grace.svg"
+                      },
+                      {
+                          "id":  "tpl_027",
+                          "label":  "Victoria",
+                          "handle":  "victoria",
+                          "src":  "/assets/influencers/victoria.svg"
+                      },
+                      {
+                          "id":  "tpl_028",
+                          "label":  "Riley",
+                          "handle":  "riley",
+                          "src":  "/assets/influencers/riley.svg"
+                      },
+                      {
+                          "id":  "tpl_029",
+                          "label":  "Willow",
+                          "handle":  "willow",
+                          "src":  "/assets/influencers/willow.svg"
+                      },
+                      {
+                          "id":  "tpl_030",
+                          "label":  "Violet",
+                          "handle":  "violet",
+                          "src":  "/assets/influencers/violet.svg"
+                      },
+                      {
+                          "id":  "tpl_031",
+                          "label":  "Aurora",
+                          "handle":  "aurora",
+                          "src":  "/assets/influencers/aurora.svg"
+                      },
+                      {
+                          "id":  "tpl_032",
+                          "label":  "Savannah",
+                          "handle":  "savannah",
+                          "src":  "/assets/influencers/savannah.svg"
+                      },
+                      {
+                          "id":  "tpl_033",
+                          "label":  "Audrey",
+                          "handle":  "audrey",
+                          "src":  "/assets/influencers/audrey.svg"
+                      },
+                      {
+                          "id":  "tpl_034",
+                          "label":  "Brooklyn",
+                          "handle":  "brooklyn",
+                          "src":  "/assets/influencers/brooklyn.svg"
+                      },
+                      {
+                          "id":  "tpl_035",
+                          "label":  "Bella",
+                          "handle":  "bella",
+                          "src":  "/assets/influencers/bella.svg"
+                      },
+                      {
+                          "id":  "tpl_036",
+                          "label":  "Claire",
+                          "handle":  "claire",
+                          "src":  "/assets/influencers/claire.svg"
+                      },
+                      {
+                          "id":  "tpl_037",
+                          "label":  "Skylar",
+                          "handle":  "skylar",
+                          "src":  "/assets/influencers/skylar.svg"
+                      },
+                      {
+                          "id":  "tpl_038",
+                          "label":  "Lucy",
+                          "handle":  "lucy",
+                          "src":  "/assets/influencers/lucy.svg"
+                      },
+                      {
+                          "id":  "tpl_039",
+                          "label":  "Paisley",
+                          "handle":  "paisley",
+                          "src":  "/assets/influencers/paisley.svg"
+                      },
+                      {
+                          "id":  "tpl_040",
+                          "label":  "Everly",
+                          "handle":  "everly",
+                          "src":  "/assets/influencers/everly.svg"
+                      },
+                      {
+                          "id":  "tpl_041",
+                          "label":  "Anna",
+                          "handle":  "anna",
+                          "src":  "/assets/influencers/anna.svg"
+                      },
+                      {
+                          "id":  "tpl_042",
+                          "label":  "Caroline",
+                          "handle":  "caroline",
+                          "src":  "/assets/influencers/caroline.svg"
+                      },
+                      {
+                          "id":  "tpl_043",
+                          "label":  "Nova",
+                          "handle":  "nova",
+                          "src":  "/assets/influencers/nova.svg"
+                      },
+                      {
+                          "id":  "tpl_044",
+                          "label":  "Genesis",
+                          "handle":  "genesis",
+                          "src":  "/assets/influencers/genesis.svg"
+                      },
+                      {
+                          "id":  "tpl_045",
+                          "label":  "Aaliyah",
+                          "handle":  "aaliyah",
+                          "src":  "/assets/influencers/aaliyah.svg"
+                      },
+                      {
+                          "id":  "tpl_046",
+                          "label":  "Kennedy",
+                          "handle":  "kennedy",
+                          "src":  "/assets/influencers/kennedy.svg"
+                      },
+                      {
+                          "id":  "tpl_047",
+                          "label":  "Kinsley",
+                          "handle":  "kinsley",
+                          "src":  "/assets/influencers/kinsley.svg"
+                      },
+                      {
+                          "id":  "tpl_048",
+                          "label":  "Allison",
+                          "handle":  "allison",
+                          "src":  "/assets/influencers/allison.svg"
+                      },
+                      {
+                          "id":  "tpl_049",
+                          "label":  "Naomi",
+                          "handle":  "naomi",
+                          "src":  "/assets/influencers/naomi.svg"
+                      },
+                      {
+                          "id":  "tpl_050",
+                          "label":  "Sarah",
+                          "handle":  "sarah",
+                          "src":  "/assets/influencers/sarah.svg"
+                      },
+                      {
+                          "id":  "tpl_051",
+                          "label":  "Alice",
+                          "handle":  "alice",
+                          "src":  "/assets/influencers/alice.svg"
+                      },
+                      {
+                          "id":  "tpl_052",
+                          "label":  "Julia",
+                          "handle":  "julia",
+                          "src":  "/assets/influencers/julia.svg"
+                      },
+                      {
+                          "id":  "tpl_053",
+                          "label":  "Natalia",
+                          "handle":  "natalia",
+                          "src":  "/assets/influencers/natalia.svg"
+                      },
+                      {
+                          "id":  "tpl_054",
+                          "label":  "Valentina",
+                          "handle":  "valentina",
+                          "src":  "/assets/influencers/valentina.svg"
+                      },
+                      {
+                          "id":  "tpl_055",
+                          "label":  "Sadie",
+                          "handle":  "sadie",
+                          "src":  "/assets/influencers/sadie.svg"
+                      },
+                      {
+                          "id":  "tpl_056",
+                          "label":  "Piper",
+                          "handle":  "piper",
+                          "src":  "/assets/influencers/piper.svg"
+                      },
+                      {
+                          "id":  "tpl_057",
+                          "label":  "Gabriella",
+                          "handle":  "gabriella",
+                          "src":  "/assets/influencers/gabriella.svg"
+                      },
+                      {
+                          "id":  "tpl_058",
+                          "label":  "Josephine",
+                          "handle":  "josephine",
+                          "src":  "/assets/influencers/josephine.svg"
+                      },
+                      {
+                          "id":  "tpl_059",
+                          "label":  "Iris",
+                          "handle":  "iris",
+                          "src":  "/assets/influencers/iris.svg"
+                      },
+                      {
+                          "id":  "tpl_060",
+                          "label":  "Jade",
+                          "handle":  "jade",
+                          "src":  "/assets/influencers/jade.svg"
+                      },
+                      {
+                          "id":  "tpl_061",
+                          "label":  "Rose",
+                          "handle":  "rose",
+                          "src":  "/assets/influencers/rose.svg"
+                      },
+                      {
+                          "id":  "tpl_062",
+                          "label":  "Quinn",
+                          "handle":  "quinn",
+                          "src":  "/assets/influencers/quinn.svg"
+                      },
+                      {
+                          "id":  "tpl_063",
+                          "label":  "Reagan",
+                          "handle":  "reagan",
+                          "src":  "/assets/influencers/reagan.svg"
+                      },
+                      {
+                          "id":  "tpl_064",
+                          "label":  "Morgan",
+                          "handle":  "morgan",
+                          "src":  "/assets/influencers/morgan.svg"
+                      },
+                      {
+                          "id":  "tpl_065",
+                          "label":  "Finley",
+                          "handle":  "finley",
+                          "src":  "/assets/influencers/finley.svg"
+                      },
+                      {
+                          "id":  "tpl_066",
+                          "label":  "Peyton",
+                          "handle":  "peyton",
+                          "src":  "/assets/influencers/peyton.svg"
+                      },
+                      {
+                          "id":  "tpl_067",
+                          "label":  "Sloane",
+                          "handle":  "sloane",
+                          "src":  "/assets/influencers/sloane.svg"
+                      },
+                      {
+                          "id":  "tpl_068",
+                          "label":  "Delilah",
+                          "handle":  "delilah",
+                          "src":  "/assets/influencers/delilah.svg"
+                      },
+                      {
+                          "id":  "tpl_069",
+                          "label":  "Madeline",
+                          "handle":  "madeline",
+                          "src":  "/assets/influencers/madeline.svg"
+                      },
+                      {
+                          "id":  "tpl_070",
+                          "label":  "Katherine",
+                          "handle":  "katherine",
+                          "src":  "/assets/influencers/katherine.svg"
+                      },
+                      {
+                          "id":  "tpl_071",
+                          "label":  "Vivian",
+                          "handle":  "vivian",
+                          "src":  "/assets/influencers/vivian.svg"
+                      },
+                      {
+                          "id":  "tpl_072",
+                          "label":  "Lila",
+                          "handle":  "lila",
+                          "src":  "/assets/influencers/lila.svg"
+                      },
+                      {
+                          "id":  "tpl_073",
+                          "label":  "Eliana",
+                          "handle":  "eliana",
+                          "src":  "/assets/influencers/eliana.svg"
+                      },
+                      {
+                          "id":  "tpl_074",
+                          "label":  "Melanie",
+                          "handle":  "melanie",
+                          "src":  "/assets/influencers/melanie.svg"
+                      },
+                      {
+                          "id":  "tpl_075",
+                          "label":  "Athena",
+                          "handle":  "athena",
+                          "src":  "/assets/influencers/athena.svg"
+                      },
+                      {
+                          "id":  "tpl_076",
+                          "label":  "Freya",
+                          "handle":  "freya",
+                          "src":  "/assets/influencers/freya.svg"
+                      },
+                      {
+                          "id":  "tpl_077",
+                          "label":  "Seraphina",
+                          "handle":  "seraphina",
+                          "src":  "/assets/influencers/seraphina.svg"
+                      },
+                      {
+                          "id":  "tpl_078",
+                          "label":  "Camila",
+                          "handle":  "camila",
+                          "src":  "/assets/influencers/camila.svg"
+                      },
+                      {
+                          "id":  "tpl_079",
+                          "label":  "Bianca",
+                          "handle":  "bianca",
+                          "src":  "/assets/influencers/bianca.svg"
+                      },
+                      {
+                          "id":  "tpl_080",
+                          "label":  "Lucia",
+                          "handle":  "lucia",
+                          "src":  "/assets/influencers/lucia.svg"
+                      },
+                      {
+                          "id":  "tpl_081",
+                          "label":  "Mariana",
+                          "handle":  "mariana",
+                          "src":  "/assets/influencers/mariana.svg"
+                      },
+                      {
+                          "id":  "tpl_082",
+                          "label":  "Alessia",
+                          "handle":  "alessia",
+                          "src":  "/assets/influencers/alessia.svg"
+                      },
+                      {
+                          "id":  "tpl_083",
+                          "label":  "Gia",
+                          "handle":  "gia",
+                          "src":  "/assets/influencers/gia.svg"
+                      },
+                      {
+                          "id":  "tpl_084",
+                          "label":  "Nina",
+                          "handle":  "nina",
+                          "src":  "/assets/influencers/nina.svg"
+                      },
+                      {
+                          "id":  "tpl_085",
+                          "label":  "Daphne",
+                          "handle":  "daphne",
+                          "src":  "/assets/influencers/daphne.svg"
+                      },
+                      {
+                          "id":  "tpl_086",
+                          "label":  "Celine",
+                          "handle":  "celine",
+                          "src":  "/assets/influencers/celine.svg"
+                      },
+                      {
+                          "id":  "tpl_087",
+                          "label":  "Margot",
+                          "handle":  "margot",
+                          "src":  "/assets/influencers/margot.svg"
+                      },
+                      {
+                          "id":  "tpl_088",
+                          "label":  "Ophelia",
+                          "handle":  "ophelia",
+                          "src":  "/assets/influencers/ophelia.svg"
+                      },
+                      {
+                          "id":  "tpl_089",
+                          "label":  "Thea",
+                          "handle":  "thea",
+                          "src":  "/assets/influencers/thea.svg"
+                      },
+                      {
+                          "id":  "tpl_090",
+                          "label":  "Willa",
+                          "handle":  "willa",
+                          "src":  "/assets/influencers/willa.svg"
+                      },
+                      {
+                          "id":  "tpl_091",
+                          "label":  "Esme",
+                          "handle":  "esme",
+                          "src":  "/assets/influencers/esme.svg"
+                      },
+                      {
+                          "id":  "tpl_092",
+                          "label":  "Juniper",
+                          "handle":  "juniper",
+                          "src":  "/assets/influencers/juniper.svg"
+                      },
+                      {
+                          "id":  "tpl_094",
+                          "label":  "Daisy",
+                          "handle":  "daisy",
+                          "src":  "/assets/influencers/daisy.svg"
+                      },
+                      {
+                          "id":  "tpl_095",
+                          "label":  "Fiona",
+                          "handle":  "fiona",
+                          "src":  "/assets/influencers/fiona.svg"
+                      },
+                      {
+                          "id":  "tpl_096",
+                          "label":  "Keira",
+                          "handle":  "keira",
+                          "src":  "/assets/influencers/keira.svg"
+                      },
+                      {
+                          "id":  "tpl_097",
+                          "label":  "Tessa",
+                          "handle":  "tessa",
+                          "src":  "/assets/influencers/tessa.svg"
+                      },
+                      {
+                          "id":  "tpl_098",
+                          "label":  "Vera",
+                          "handle":  "vera",
+                          "src":  "/assets/influencers/vera.svg"
+                      },
+                      {
+                          "id":  "tpl_099",
+                          "label":  "Odette",
+                          "handle":  "odette",
+                          "src":  "/assets/influencers/odette.svg"
+                      }
+                  ]
+}

@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+*.tsbuildinfo
+
+# Secrets — never commit a filled-in .env
+.env*
+!.env.example
+
+# Runtime state: generated media, account data, job state.
+#
+# These files hold real accounts, password hashes and whatever was generated
+# while testing. The stores create them on first boot, so they do not belong
+# in the repository. `backend/data/character-templates.json` is seed data and
+# is tracked.
+backend/storage/
+backend/data/users.json
+backend/data/collections.json
+backend/data/canvases.json
+backend/data/agent.json
+.cache/
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+*.log
